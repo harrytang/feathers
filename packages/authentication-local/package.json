@@ -41,7 +41,7 @@
     "@feathersjs/errors": "^4.0.0-pre.4",
     "bcryptjs": "^2.4.3",
     "debug": "^4.1.1",
-    "lodash": "^4.17.11"
+    "lodash": "^4.17.13"
   },
   "devDependencies": {
     "@feathersjs/authentication": "^4.0.0-pre.4",
