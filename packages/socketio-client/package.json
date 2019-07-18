@@ -46,7 +46,7 @@
     "@feathersjs/tests": "^4.3.0-pre.1",
     "chai": "^4.2.0",
     "feathers-memory": "^4.0.0",
-    "mocha": "^6.1.4",
+    "mocha": "^6.2.0",
     "socket.io-client": "^2.2.0"
   },
   "gitHead": "e0b7e978ae31d55a168d8257195134e461c4c6fb"
